@@ -17,3 +17,13 @@ Boşluk sayısı: sola (toplamSatir - satirSayisi) adet boşluk konmalı
 
 Tam simetri olmalı (sağdan sola kırpılmamış bir üçgen olacak)
 
+Ekstra Zorluk (İsteyen için)
+Alt alta inen üçgenden sonra, üstte de ters üçgen yaparak elmas şekli elde etmeye çalışabilirler:
+
+   *   
+  ***  
+ ***** 
+*******
+ ***** 
+  ***  
+   *   
