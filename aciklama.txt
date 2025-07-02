@@ -1,0 +1,19 @@
+📝 ÖDEV METNİ: Simetrik Yıldız Üçgeni
+🎯 Görev:
+Kullanıcıdan bir yükseklik sayısı alacaksın.
+Bu sayıya göre yıldızlardan oluşan simetrik bir üçgen (piramit) çizilecek.
+
+👇 Örnek çıktı (yükseklik: 4 için):
+
+   *   
+  ***  
+ ***** 
+*******
+Yıldız sayısı: her satırda (2 * satırSayisi - 1) kadar olmalı
+
+Boşluk sayısı: sola (toplamSatir - satirSayisi) adet boşluk konmalı
+
+İç içe 2 for döngüsü ile yapılmalı
+
+Tam simetri olmalı (sağdan sola kırpılmamış bir üçgen olacak)
+
